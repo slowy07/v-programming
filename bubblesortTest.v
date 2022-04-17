@@ -13,6 +13,4 @@ println("not sorted test array: $arr")
 
 bubblesort(mut arr)
 println("sorted array")
-for i in arr {
-	println(i)
-}
+println(arr)
